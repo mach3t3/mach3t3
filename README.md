@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mach3t3
 - 👀 I’m interested in programming especially in rust and typescript
 - 🌱 I’m currently learning rust and typescript
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on twitter via @mach3t333
 
 <!---
