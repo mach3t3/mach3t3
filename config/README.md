@@ -4,5 +4,5 @@ Make sure to install `prettier` by running `npm install --save-dev --save-exact 
 
 Run the following command to download the configuration files:
 ```shell
-curl -s https://raw.githubusercontent.com/mach3t3/mach3t3/develop/config/configurate.sh | bash
+curl -s https://raw.githubusercontent.com/mach3t3/mach3t3/main/config/install.sh | bash
 ```
